@@ -1,0 +1,1 @@
+# django_wish_list
